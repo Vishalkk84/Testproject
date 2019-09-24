@@ -1,1 +1,2 @@
-this is test project
+Print (this is test project)
+print (second line)

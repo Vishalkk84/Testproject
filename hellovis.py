@@ -1,2 +1,2 @@
-Print (this is test project)
-print (second line)
+print ("this is test project")
+print ("second line")
